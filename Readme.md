@@ -25,7 +25,7 @@ git clone https://github.com/prakasap05/FTP-BruteForce
 
 cd FTP-BruteForce
 
-,/akas-ftp.pl <your ip web ftp> | delete "<" and ">" or usage: perl akas-ftp.pl <your ip web ftp>
+./akas-ftp.pl <your ip web ftp> | delete "<" and ">" or usage: perl akas-ftp.pl <your ip web ftp>
 ```
 
 If an error occurs in this tool, indicating that the Net::FTP module has not been installed, follow the installation method below:
