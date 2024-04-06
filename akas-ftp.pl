@@ -31,7 +31,7 @@ my $akas = Net::FTP->new("$host",
 		Debug => 1,
 		Passive=>0) or die "The FTP server failed to establish a connection.";
 
-if ($akas->login($_,$pass)){
+if ($akas->login($_,$akaspass)){
 print "\t\n";
 print color 'bold yellow';
 print "[•]Congratulations, your Brute Force has succeeded. Say thanks to prakasap05\n\n";
