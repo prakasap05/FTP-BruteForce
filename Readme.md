@@ -36,8 +36,8 @@ sudo cpan install Net::FTP
 ```
 
 ###The output is successful connecting the server
-![LogoProject](https://raw.githubusercontent.com/prakasap05/FTP-BruteForce/main/succes.jpeg)
+![LogoProject](https://raw.githubusercontent.com/prakasap05/FTP-BruteForce/main/succes.png)
 
 
 ###Output failed to connect server
-![LogoProject](https://raw.githubusercontent.com/prakasap05/FTP-BruteForce/main/error.jpeg)
+![LogoProject](https://raw.githubusercontent.com/prakasap05/FTP-BruteForce/main/error.png)
